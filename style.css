@@ -297,6 +297,9 @@ img{
 	-o-transition: all 0.5s;
 	transition: all 0.5s;
 }
+.nav-logo {
+	width:6em;
+}
 .logo {
 	height: 100px;  
 	width: 85px;
